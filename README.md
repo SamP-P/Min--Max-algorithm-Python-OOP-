@@ -23,3 +23,8 @@ This code demonstrates:
 
 Flowchart -
 
+Screenshot 2026-07-14 183749.png
+
+![Flowchart1](images/Screenshot 2026-07-14 183749.png)
+![Flowchart2](images/Screenshot 2026-07-14 183801.png)
+
