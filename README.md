@@ -8,13 +8,9 @@ This program selects a strong position for a computer player to chose at every g
 All imports: 
 
 import random
-
 import sys
-
 import copy
-
 import pygame
-
 from abc import ABC
 
 
